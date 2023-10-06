@@ -1,39 +1,40 @@
-# Reactive Chat Uygulaması
+# Reactive Chat App
 
-Bu proje, React ve Spring WebFlux kullanılarak oluşturulmuş bir canlı sohbet uygulamasını içerir. Kullanıcılar bu uygulama aracılığıyla canlı sohbet mesajları gönderebilir ve alabilirler.
+This project contains a real-time chat application built using React and Kotlin, Spring WebFlux. Users can send and receive live chat messages through this application.
 
-## Başlangıç
+## Getting Started
 
-Projenin yerel ortamınıza kurulması için aşağıdaki adımları izleyin.
+Follow the steps below to set up the project on your local environment.
 
-### Gereksinimler
+### Requirements
 
-Bu projeyi çalıştırmak için aşağıdaki yazılımlara ihtiyacınız vardır:
+To run this project, you need the following software:
 
-- Node.js ve npm (Node Package Manager)
-- Java Development Kit (JDK) 11 veya üstü
-- Redis veritabanı
+- Node.js and npm (Node Package Manager)
+- Java Development Kit (JDK) 11 or higher
+- Redis database
 
-### Kurulum
+### Installation
 
-1. Bu projeyi yerel makinenize klonlayın:
+Clone this project to your local machine:
 
    ```sh
    git clone https://github.com/your-username/reactive-chat-app.git
-
-frontend dizinine gidin:
+   ```
+  
+Navigate to the frontend directory:
 
    ```sh
    cd frontend
    ```
-React uygulamasını kurun
+Install and Run the React application:
 
    ```sh
    npm install
+   npm start
    ```
 
-2. Backend uygulamasını ister flow olarak ister flux olarak çalıştırabilirsiniz.
-
+2. You can run the backend application either as a Flow or Flux version.
 
 ## Tech Stack
 - Kotlin
