@@ -2,9 +2,13 @@
 
 This project contains a real-time chat application built using React and Kotlin, Spring WebFlux. Users can send and receive live chat messages through this application.
 
+
+https://github.com/G-khan/reactive-chat-app/assets/6300144/1c7fb2fb-f519-406b-86cb-36ea4452386a
+
+
 ## Getting Started
 
-Follow the steps below to set up the project on your local environment.
+Follow the steps below to set up the project in your local environment.
 
 ### Requirements
 
